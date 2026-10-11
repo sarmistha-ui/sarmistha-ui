@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sarmistha+%F0%9F%91%8B;Frontend+Developer;UI%2FUX+Enthusiast;Building+clean%2C+modern%2C+user-friendly+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sarmistha+%F0%9F%91%8B;Frontend+Developer;UI%2FUX+Enthusiast;Building+clean%2C+modern%2C+user-friendly+web+experiences" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Passionate about crafting engaging digital experiences</h3>
