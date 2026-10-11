@@ -15,7 +15,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="#">
+  <a href="www.linkedin.com/in/sarmisthadey81">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
@@ -58,18 +58,6 @@ My focus is on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarmistha-ui&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmistha-ui&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 > Add your project links here:
@@ -91,7 +79,7 @@ Feel free to reach out for collaborations, projects, or opportunities.
 
 - GitHub: [@sarmistha-ui](https://github.com/sarmistha-ui)
 - Email: sarmisthaui@gmail.com
-- LinkedIn: [Your Name](#)
+- LinkedIn: www.linkedin.com/in/sarmisthadey81
 
 ---
 
