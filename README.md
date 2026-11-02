@@ -60,16 +60,18 @@ My focus is on:
 
 ## 🌟 Featured Projects
 
-> Add your project links here:
+Project links here:
 
-- Project 1 — Short description
-- Project 2 — Short description
-- Project 3 — Short description
+### Eventora – Bringing Events Together
+Plan it. Organize it. Celebrate it
 
-Example:
-- [Portfolio Website](#)
-- [React App](#)
-- [Landing Page](#)
+Eventora is an event management platform designed to make discovering, planning, and managing events easier. It offers a simple and user-friendly experience where people can explore events and organise their special occasions in one place.
+
+This project was created using Emergent AI, exploring AI-powered web application development with a focus on clean design, easy navigation, and a smooth user experience.
+
+**Development Tool**: Emergent AI
+
+**Live Demo**: https://eventora-kolkata.emergent.host
 
 ---
 
