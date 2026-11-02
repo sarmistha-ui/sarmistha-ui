@@ -62,12 +62,13 @@ My focus is on:
 
 Project links here:
 
-### Eventora – Bringing Events Together
-Plan it. Organize it. Celebrate it
+### Eventora – A user-friendly platform for discovering, planning, and managing events
 
 Eventora is an event management platform designed to make discovering, planning, and managing events easier. It offers a simple and user-friendly experience where people can explore events and organise their special occasions in one place.
 
 This project was created using Emergent AI, exploring AI-powered web application development with a focus on clean design, easy navigation, and a smooth user experience.
+
+This project reflects my interest in combining frontend development skills with AI-powered tools to build practical, user-friendly, responsive web applications.
 
 **Development Tool**: Emergent AI
 
